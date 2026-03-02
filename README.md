@@ -12,9 +12,10 @@ CS 3110.01-1
 
 ## Summary of Learning:
 ### Which problem(s) gave you the most trouble? Did you avoid any problem that is too challenging to finish by deadline? Did you ask questions to AI/instructor?
-
+For me I had the most trouble with problem #21, I still struggle with making the AND state system. I did not avoid any problems, I chose pretty much at random picking problems at random. I was struggling with problem #21 so I asked CLAUDE how to create a AND state-combination because initially I had created a OR system, which admittedly is a lot easier in NFA.
 
 ### which problem(s) surprised you with a "gold-st-ring"? Which next state(s) did you not account for in the subset of next states? why? How to make sure you avoid such errors in your future flight/traffic/compiler state controller tasks, or in the near future, the course projects/exams?
-
+I did not have any gold-strings. For me, I struggled mostly with #21 but it wasn't gold-strings which revealed it's issues. I knew that I had made an OR instead of an AND and just had to touch up on my NFA creation.
 
 ### Other insights/comments/questions that you want the grader/instructor to know.
+None.
